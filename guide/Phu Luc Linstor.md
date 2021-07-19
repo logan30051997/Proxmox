@@ -1,0 +1,1 @@
+Link tham khảo: https://www.linbit.com/drbd-user-guide/linstor-guide-1_0-en/#p-administration
